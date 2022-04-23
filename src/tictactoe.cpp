@@ -1,4 +1,4 @@
-#include <tic-tac-toe.hpp>
+#include <tictactoe.hpp>
 
 using namespace eosio;
 
